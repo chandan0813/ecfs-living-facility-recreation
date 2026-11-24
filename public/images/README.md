@@ -1,0 +1,1 @@
+Approved replacement poster slots: `facility-ambient-poster.webp`, `services-reel-poster.webp`, `client-testimonial-poster.webp`. Current illustrations use optimized project asset pointers. See ECFS-HANDOFF.md for alt text.
